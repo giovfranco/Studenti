@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+D:\Documenti\Scuola\AS 2013-2014\Classi\4D\Studenti\4D_Galilei\Soncini\.metadata\.plugins\org.eclipse.jdt.core
+948934734.index
+2698355329.index
