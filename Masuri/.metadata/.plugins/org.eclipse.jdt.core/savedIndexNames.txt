@@ -1,0 +1,4 @@
+INDEX VERSION 1.126+D:\Documenti\Scuola\AS 2013-2014\Classi\4D\Studenti\Masuri\.metadata\.plugins\org.eclipse.jdt.core
+3520313224.index
+948934734.index
+2140493592.index
