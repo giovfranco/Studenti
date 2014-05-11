@@ -62,7 +62,7 @@ public class MainActivity extends Activity
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
 	}
-
+	
 	private Handler   mHandlerClock = new Handler();
 	private Runnable  timerTaskClock = new Runnable()
 	{
@@ -75,15 +75,16 @@ public class MainActivity extends Activity
 			mHandlerClock.postDelayed(timerTaskClock,999);
 		}
 	};
-/*
+	
 	@Override
 	public void onResume()
 	{
 		super.onResume();
 		mHandlerClock.post(timerTaskClock);
-		mHandler.post(timerTask);
+		mHandlerClock.post(timerTaskClock);
 	} // public void onResume()
-*/
+
+	
 	private String Dec_Binario(String dec)
 	{
 		String risultato="";

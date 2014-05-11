@@ -1,7 +1,5 @@
 INDEX VERSION 1.126+D:\Documenti\Scuola\AS 2013-2014\Classi\4D\Studenti\4D_Galilei\DeBlasio\.metadata\.plugins\org.eclipse.jdt.core
-1804501436.index
-2957116252.index
 328497478.index
 2771709550.index
-2187587600.index
-948934734.index
+2957116252.index
+1804501436.index
