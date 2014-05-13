@@ -52,14 +52,4 @@
         android:layout_toLeftOf="@+id/btnEsadec"
         android:text="Ottale" />
 
-    <TextView
-        android:id="@+id/textView1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/btnOttal"
-        android:layout_below="@+id/btnOttal"
-        android:layout_marginTop="67dp"
-        android:text="Large Text"
-        android:textAppearance="?android:attr/textAppearanceLarge" />
-
 </RelativeLayout>

@@ -10,9 +10,7 @@ import android.widget.TextView;
 
 public class MainActivity extends Activity
 {	
-	char[] Esadecimale = {'0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F'};
-	TextView txtClock = (TextView)findViewById(R.id.textView1);
-	
+	char[] Esadecimale = {'0','1','2','3','4','5','6','7','8','9','A','B','C','D','E','F'};	
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState)
@@ -93,25 +91,5 @@ public class MainActivity extends Activity
 		getMenuInflater().inflate(R.menu.main, menu);
 		return true;
 	}
-	/*
-	private Handler mHandlerClock = new Handler();
-	private Runnable timerTaskClock = new Runnable()
-	{
-		public void run()
-		{
-			Calendar now = Calendar.getInstance();
-			txtClock.setText(String.format("%02d:%02d:%02d",
-					now.get(Calendar.HOUR),now.get(Calendar.MINUTE),
-					now.get(Calendar.SECOND)));
-			mHandlerClock.postDelayed(timerTaskClock,999);
-		}
-	};
 	
-	public void onResume()
-	{
-		super.onResume();
-		mHandlerClock.post(timerTaskClock);
-		mHandlerClock.post(timerTaskClock);
-	}
-	*/
 }
