@@ -1,3 +1,5 @@
 INDEX VERSION 1.126+D:\Documenti\Scuola\AS 2013-2014\Classi\4D\Studenti\4D_Galilei\Pantaleo\.metadata\.plugins\org.eclipse.jdt.core
+2587102036.index
 3099804974.index
+1395934775.index
 671424276.index
